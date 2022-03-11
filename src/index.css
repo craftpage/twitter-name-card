@@ -1,0 +1,37 @@
+#setting{
+  text-align: left;
+}
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+body{
+  padding: 0;
+  margin: 0;
+}
+h1{
+  padding: 0;
+  margin: 0;
+}
+p{
+  padding: 0;
+  margin: 5px;
+}
+img{
+  padding: 0;
+  margin: 0;
+}
+#card {
+  width: 358px;
+  height: 217px;
+  border: #000000;
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px;
+  text-align: left;
+
+}
