@@ -1,5 +1,5 @@
 module.exports = {
     base:'./',
-    assertsDir:'./',
-    outDir:'docs'
+    assetsDir:'./',
+    outDir:'docs',
 }
